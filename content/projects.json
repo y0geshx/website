@@ -1,0 +1,32 @@
+{
+  "body": [
+    {
+      "name": "Project",
+      "projects": [
+        {
+          "name": "Collage Management System",
+          "description": "Collage Management System in VB.NET",
+          "link": "https://github.com/y0geshx/Collage-Management-System",
+          "icon": "i-carbon-user-follow"
+        },
+        {
+          "name": "AI Chatbot",
+          "description": "It is a fully optimized UI for AI Chats.",
+          "link": "https://github.com/y0geshx/AI-Chatbot",
+          "icon": "i-carbon-chat-bot"
+        }
+      ]
+    },
+    {
+      "name": "Hobby projects",
+      "projects": [
+        {
+          "name": "Collatz Conjecture",
+          "description": "This Collatz-Conjecture (3n+1) algorithm prints each calculated sequence in a given interval of integers",
+          "link": "https://github.com/y0geshx/Collatz-Conjecture",
+          "icon": "i-carbon-package"
+        }
+      ]
+    }
+  ]
+}
