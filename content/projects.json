@@ -25,6 +25,12 @@
           "description": "This Collatz-Conjecture (3n+1) algorithm prints each calculated sequence in a given interval of integers",
           "link": "https://github.com/y0geshx/Collatz-Conjecture",
           "icon": "i-carbon-package"
+        },
+        {
+          "name": "Dotfiles",
+          "description": "My UNIX configuration files.",
+          "link": "https://github.com/y0geshx/dotfiles",
+          "icon": "i-carbon-package"
         }
       ]
     }
