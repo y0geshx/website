@@ -76,9 +76,9 @@ const colorMode = useColorMode()
       <giscus-widget
         id="inject-comments"
         repo="y0geshx/website"
-        repo-id="R_kgDOIPJ3VA"
-        category="Announcements"
-        category-id="DIC_kwDOIPJ3VM4CUWD4"
+        repo-id="R_kgDOKsKUhw"
+        category="General"
+        category-id="DIC_kwDOKsKUh84Ca37V"
         mapping="pathname"
         strict="0"
         reactions-enabled="1"
